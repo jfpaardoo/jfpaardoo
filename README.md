@@ -12,18 +12,18 @@
 
 <br/>
 
-### 💫 Sobre mí
+### Sobre mí
 
 Estudiante de 4.º curso de **Ingeniería Informática – Ingeniería del Software** en la **ETSII (Universidad de Sevilla)**, enfocado en arquitectura de aplicaciones *full-stack*, automatización DevOps/CI-CD e inteligencia artificial aplicada.
 
 - **Desarrollo Full-Stack & Arquitectura:** Diseño de APIs robustas y sistemas web escalables con **Java (Spring Boot)**, **React**, **TypeScript** y **PostgreSQL**.
-- **IA Aplicada & Deep Learning:** Experiencia en visión artificial y segmentación médica (**PyTorch / TensorFlow**) e integración de **LLMs / RAG** en ingeniería del software.
-- **Liderazgo & Calidad:** Dirección técnica de equipos ágiles, control de calidad (**SonarQube**, Playwright, GitHub Actions) y cumplimiento normativo (**GDPR / EU AI Act / CRA**).
+- **IA Aplicada & Deep Learning:** Experiencia en visión artificial y segmentación médica (**PyTorch / TensorFlow**).
+- **Liderazgo & Calidad:** Dirección técnica de equipos ágiles, control de calidad (**SonarQube**, Playwright, GitHub Actions).
 - **Dato extra:** Titulado Profesional en Trombón (Conservatorio Oficial de Música de Almendralejo) — disciplina, trabajo en equipo y precisión llevados del escenario al código.
 
 ---
 
-### 💻 Stack Tecnológico
+### Stack Tecnológico
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=java,spring,react,ts,js,python,pytorch,tensorflow,postgres,mysql,docker,git,githubactions,linux,postman" alt="Tech Stack" />
@@ -40,7 +40,7 @@ Estudiante de 4.º curso de **Ingeniería Informática – Ingeniería del Softw
 
 ---
 
-### 🚀 Proyectos Destacados
+### Proyectos Destacados
 
 | Proyecto | Descripción | Tecnologías |
 | :--- | :--- | :--- |
@@ -51,7 +51,7 @@ Estudiante de 4.º curso de **Ingeniería Informática – Ingeniería del Softw
 
 ---
 
-### 📊 Actividad y Estadísticas
+### Actividad y Estadísticas
 
 <div align="center">
   <img src="https://github-readme-stats.shion.dev/api?username=jfpaardoo&show_icons=true&bg_color=0f172a&title_color=a3e635&text_color=e2e8f0&icon_color=a3e635&border_color=1e293b&count_private=true" height="165" alt="GitHub Stats" />
