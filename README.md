@@ -69,5 +69,6 @@ Estudiante de 4.º curso de **Ingeniería Informática – Ingeniería del Softw
 <br/>
 
 <div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=jfpaardoo&limit=5&bg_color=0f172a&title_color=a3e635&text_color=e2e8f0&icon_color=a3e635&border_color=1e293b&combine_all_yearly_contributions=true" alt="Top Contributed Repos" />
+  <a href="https://github.com/jfpaardoo/smart-checkin-system"><img src="https://github-readme-stats.shion.dev/api/pin/?username=jfpaardoo&repo=smart-checkin-system&bg_color=0f172a&title_color=a3e635&text_color=e2e8f0&icon_color=a3e635&border_color=1e293b" height="135" alt="Smart Check-In System" /></a>
+  <a href="https://github.com/jfpaardoo/ia25-26-medical-image-unet-segmentation"><img src="https://github-readme-stats.shion.dev/api/pin/?username=jfpaardoo&repo=ia25-26-medical-image-unet-segmentation&bg_color=0f172a&title_color=a3e635&text_color=e2e8f0&icon_color=a3e635&border_color=1e293b" height="135" alt="Retinal Vessel Segmentation" /></a>
 </div>
