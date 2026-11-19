@@ -1,36 +1,46 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:65a30d&height=180&section=header&text=Juan%20Felipe%20Pardo%20Carrillo&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineering%20%7C%20Full-Stack%20%26%20Applied%20AI&descAlignY=60&descSize=16" width="100%" />
+  <img src="./assets/banner.svg" alt="Juan Felipe Pardo Carrillo - Software Engineering" width="100%" />
 </div>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/juan-felipe-pardo-carrillo-bab0a8348/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:tu_correo@alum.us.es">
-    <img src="https://img.shields.io/badge/Email-1e293b?style=for-the-badge&logo=gmail&logoColor=a3e635" alt="Email" />
-  </a>
-</p>
+<br/>
 
-### Sobre mí
+<div align="center">
+  <a href="https://www.linkedin.com/in/juan-felipe-pardo-carrillo-bab0a8348/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://github.com/jfpaardoo"><img src="https://img.shields.io/badge/GitHub-0f172a?style=for-the-badge&logo=github&logoColor=a3e635" alt="GitHub" /></a>
+  <img src="https://komarev.com/ghpvc/?username=jfpaardoo&style=for-the-badge&color=65a30d&label=VISTAS" alt="Profile Views" />
+</div>
 
-Estudiante de 4.º curso de **Ingeniería Informática – Ingeniería del Software** en la **ETSII (Universidad de Sevilla)**, con enfoque en arquitectura de aplicaciones *full-stack*, automatización DevOps/CI-CD e inteligencia artificial aplicada.
+<br/>
 
-- **Desarrollo Full-Stack & Arquitectura:** Construcción de APIs robustas y sistemas web escalables con **Java (Spring Boot)**, **React**, **TypeScript** y **PostgreSQL**.
-- **IA Aplicada & Deep Learning:** Experiencia en visión artificial y segmentación médica (**PyTorch / TensorFlow**) e integración de **LLMs / RAG** en procesos de ingeniería del software.
-- **Liderazgo & Metodología:** Dirección y coordinación técnica de equipos ágiles, control de calidad (**SonarQube**, GitHub Actions) y cumplimiento normativo (**GDPR / EU AI Act**).
+### 💫 Sobre mí
+
+Estudiante de 4.º curso de **Ingeniería Informática – Ingeniería del Software** en la **ETSII (Universidad de Sevilla)**, enfocado en arquitectura de aplicaciones *full-stack*, automatización DevOps/CI-CD e inteligencia artificial aplicada.
+
+- **Desarrollo Full-Stack & Arquitectura:** Diseño de APIs robustas y sistemas web escalables con **Java (Spring Boot)**, **React**, **TypeScript** y **PostgreSQL**.
+- **IA Aplicada & Deep Learning:** Experiencia en visión artificial y segmentación médica (**PyTorch / TensorFlow**) e integración de **LLMs / RAG** en ingeniería del software.
+- **Liderazgo & Calidad:** Dirección técnica de equipos ágiles, control de calidad (**SonarQube**, Playwright, GitHub Actions) y cumplimiento normativo (**GDPR / EU AI Act / CRA**).
 - **Dato extra:** Titulado Profesional en Trombón (Conservatorio Oficial de Música de Almendralejo) — disciplina, trabajo en equipo y precisión llevados del escenario al código.
 
 ---
 
-### Stack Tecnológico
+### 💻 Stack Tecnológico
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,spring,react,ts,js,python,pytorch,tensorflow,postgres,docker,git,githubactions,linux" />
+  <img src="https://skillicons.dev/icons?i=java,spring,react,ts,js,python,pytorch,tensorflow,postgres,mysql,docker,git,githubactions,linux,postman" alt="Tech Stack" />
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/SonarQube-0f172a?style=flat-square&logo=sonarqube&logoColor=4E9BCD" alt="SonarQube" />
+  <img src="https://img.shields.io/badge/Playwright-0f172a?style=flat-square&logo=playwright&logoColor=2EAD33" alt="Playwright" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-0f172a?style=flat-square&logo=scikit-learn&logoColor=F7931E" alt="Scikit-Learn" />
+  <img src="https://img.shields.io/badge/Pandas_%26_NumPy-0f172a?style=flat-square&logo=pandas&logoColor=white" alt="Pandas and NumPy" />
+  <img src="https://img.shields.io/badge/Render_%26_Vercel-0f172a?style=flat-square&logo=vercel&logoColor=white" alt="Render and Vercel" />
+  <img src="https://img.shields.io/badge/LaTeX-0f172a?style=flat-square&logo=latex&logoColor=47A141" alt="LaTeX" />
 </p>
 
 ---
 
-### Proyectos Destacados
+### 🚀 Proyectos Destacados
 
 | Proyecto | Descripción | Tecnologías |
 | :--- | :--- | :--- |
@@ -41,9 +51,21 @@ Estudiante de 4.º curso de **Ingeniería Informática – Ingeniería del Softw
 
 ---
 
-### Actividad y Estadísticas
+### 📊 Actividad y Estadísticas
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jfpaardoo&show_icons=true&bg_color=0f172a&title_color=a3e635&text_color=e2e8f0&icon_color=a3e635&border_color=1e293b" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jfpaardoo&layout=compact&bg_color=0f172a&title_color=a3e635&text_color=e2e8f0&border_color=1e293b" height="165" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.shion.dev/api?username=jfpaardoo&show_icons=true&bg_color=0f172a&title_color=a3e635&text_color=e2e8f0&icon_color=a3e635&border_color=1e293b&count_private=true" height="165" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=jfpaardoo&layout=compact&bg_color=0f172a&title_color=a3e635&text_color=e2e8f0&border_color=1e293b&count_private=true" height="165" alt="Top Languages" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=jfpaardoo&background=0f172a&border=1e293b&stroke=1e293b&ring=a3e635&fire=a3e635&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=a3e635&sideLabels=e2e8f0&dates=94a3b8" height="165" alt="GitHub Streak" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=jfpaardoo&limit=5&bg_color=0f172a&title_color=a3e635&text_color=e2e8f0&icon_color=a3e635&border_color=1e293b&combine_all_yearly_contributions=true" alt="Top Contributed Repos" />
+</div>
