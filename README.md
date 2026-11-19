@@ -17,8 +17,9 @@
 Estudiante de 4.º curso de **Ingeniería Informática – Ingeniería del Software** en la **ETSII (Universidad de Sevilla)**, enfocado en arquitectura de aplicaciones *full-stack*, automatización DevOps/CI-CD e inteligencia artificial aplicada.
 
 - **Desarrollo Full-Stack & Arquitectura:** Diseño de APIs robustas y sistemas web escalables con **Java (Spring Boot)**, **React**, **TypeScript** y **PostgreSQL**.
-- **IA Aplicada & Deep Learning:** Experiencia en visión artificial y segmentación médica (**PyTorch / TensorFlow**).
-- **Liderazgo & Calidad:** Dirección técnica de equipos ágiles, control de calidad (**SonarQube**, Playwright, GitHub Actions).
+- **IA Aplicada & Deep Learning:** Experiencia en visión artificial y segmentación médica (**PyTorch / TensorFlow**) y análisis de bioseñales mediante técnicas de *Soft Computing*.
+- **Programación de Sistemas & Bajo Nivel:** Desarrollo en **C/C++**, optimización de código nativo y recompilación estática.
+- **Liderazgo & Calidad:** Dirección técnica de equipos ágiles y control de calidad (**SonarQube**, Playwright, GitHub Actions).
 - **Dato extra:** Titulado Profesional en Trombón (Conservatorio Oficial de Música de Almendralejo) — disciplina, trabajo en equipo y precisión llevados del escenario al código.
 
 ---
@@ -26,7 +27,7 @@ Estudiante de 4.º curso de **Ingeniería Informática – Ingeniería del Softw
 ### Stack Tecnológico
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,spring,react,ts,js,python,pytorch,tensorflow,postgres,mysql,docker,git,githubactions,linux,postman" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=java,spring,react,ts,js,python,c,cpp,pytorch,tensorflow,postgres,mysql,docker,git,githubactions,linux,postman" alt="Tech Stack" />
 </p>
 
 <p align="left">
@@ -45,8 +46,9 @@ Estudiante de 4.º curso de **Ingeniería Informática – Ingeniería del Softw
 | Proyecto | Descripción | Tecnologías |
 | :--- | :--- | :--- |
 | **Smart Check-In System** *(Distribution Academy)* | PWA de control horario y gestión de formación corporativa con códigos QR dinámicos TOTP anti-fraude, RBAC y analítica exportable. | `Java 21` `Spring Boot` `React` `PostgreSQL` `Docker` |
+| **EEG Epilepsy Detection** *(Soft Computing)* | Pipeline de procesamiento y clasificación de señales electroencefalográficas (EEG) para detección automatizada de crisis epilépticas. | `Python` `Scikit-Learn` `NumPy` `Pandas` `Signal Processing` |
 | **Retinal Vessel Segmentation (U-Net)** | Segmentación semántica de vasos sanguíneos en imágenes médicas (dataset DRIVE) con validación cruzada 5-fold y generadores personalizados. | `Python` `TensorFlow/Keras` `OpenCV` `Scikit-Learn` |
-| **Film-Hub / UVLHub** | Evolución de repositorio de modelos de variabilidad (SPL/UVL) con gestión de roles, 2FA, auditoría de licencias/SBOM y CI/CD. | `Python` `Flask` `UVL` `GitHub Actions` `Docker` |
+| **SavageWindRecomp** | Proyecto de recompilación estática e ingeniería inversa de videojuegos clásicos, optimización de código nativo y arquitectura de bajo nivel. | `C` `C++` `CMake` `Reverse Engineering` `Systems` |
 | **Unstable Unicorns Web** | Adaptación multijugador en tiempo real del juego de cartas con salas, chat en vivo y motor de reglas completo. | `Spring Boot` `React` `WebSockets` `PostgreSQL` |
 
 ---
