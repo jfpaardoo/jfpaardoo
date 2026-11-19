@@ -42,9 +42,9 @@
   <circle cx="954" cy="86" r="5" fill="#f59e0b" />
   <circle cx="970" cy="86" r="5" fill="#a3e635" />
 
-  <text x="936" y="118" fill="#94a3b8" font-family="monospace" font-size="13">const <tspan fill="#a3e635">engineer</tspan> = {</text>
-  <text x="952" y="140" fill="#cbd5e1" font-family="monospace" font-size="13">role: <tspan fill="#7dd3fc">'Software Eng.'</tspan>,</text>
-  <text x="952" y="162" fill="#cbd5e1" font-family="monospace" font-size="13">focus: [<tspan fill="#7dd3fc">'Web'</tspan>, <tspan fill="#7dd3fc">'LLMs'</tspan>],</text>
-  <text x="952" y="184" fill="#cbd5e1" font-family="monospace" font-size="13">location: <tspan fill="#7dd3fc">'Seville, ES'</tspan></text>
-  <text x="936" y="206" fill="#94a3b8" font-family="monospace" font-size="13">};</text>
+  <text x="936" y="118" fill="#a3e635" font-family="monospace" font-size="13">const engineer = {</text>
+  <text x="952" y="140" fill="#cbd5e1" font-family="monospace" font-size="13">role: 'Software Eng.',</text>
+  <text x="952" y="162" fill="#7dd3fc" font-family="monospace" font-size="13">focus: ['Web', 'LLMs'],</text>
+  <text x="952" y="184" fill="#cbd5e1" font-family="monospace" font-size="13">location: 'Seville, ES'</text>
+  <text x="936" y="206" fill="#a3e635" font-family="monospace" font-size="13">};</text>
 </svg>
